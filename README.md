@@ -8,3 +8,5 @@ para la primera revisión subiré 3 prácticas
 
 
 ![esto es una imagen](ejecucionBibliotecas.png)
+
+-es la ejecución de ambas bibliotecas, estática y dinámica
