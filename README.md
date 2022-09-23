@@ -7,4 +7,4 @@ para la primera revisión subiré 3 prácticas
   3. biblioteca dinámica
 
 
-![esto es una imagen](/assets/images/ejecucionBibliotecas.png)
+![esto es una imagen](ejecucionBibliotecas.png)
